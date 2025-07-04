@@ -1,0 +1,18 @@
+# QA Manual Test Cases – Deals2buy Testing
+
+This repository contains test cases for manual testing of the Deals2buy web application.
+
+## Test Areas Covered:
+- Register / Log In / Log Out
+- Personal Info (Name, City, Country, Phone Number)
+- Profile Picture Upload
+
+## Format Includes:
+- Test ID
+- Test Summary
+- Steps to Reproduce
+- Expected vs Actual Result
+- Priority, Status, Tester Info
+
+Tested by: Mohammed Sabith  
+Date: July 2025
